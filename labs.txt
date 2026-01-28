@@ -1,0 +1,4 @@
+Devops lab
+Embedded systems lab
+Machine learning lab
+
